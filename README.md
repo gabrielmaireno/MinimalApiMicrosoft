@@ -1,1 +1,1 @@
-Project done following lecture about Minimal APIs on Microsoft Learn platform
+Project done following lecture about Minimal APIs and Entity Framework Core on Microsoft Learn platform
